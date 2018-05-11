@@ -1,0 +1,20 @@
+
+#foot{
+    height:100px;
+    width: 100%;
+    background-color:#f36;
+    display: block;
+}
+#foot a:hover{
+    color: #FFFFFF;
+}
+.font_center{
+    text-align:center;
+}
+
+#foot .bq{
+    text-align:center;
+    text-decoration: none;
+    color: black;!important;
+    size: 12px;!important;
+}
